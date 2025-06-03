@@ -58,7 +58,7 @@ LLM_MODEL=gpt-4o-mini
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.11+
 - Neo4j Database
 - OpenAI API key
 
