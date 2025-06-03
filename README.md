@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that creates a knowledge graph from Wikipedia content about Eleanor of Arborea and enables intelligent question-answering using Neo4j and LangChain.
 
-![Graph RAG Overview](images/graph_rag_diagram.png)
+![Graph RAG Overview](images/graph-rag.png)
 
 ## About Eleanor of Arborea
 
@@ -12,7 +12,7 @@ Eleanor of Arborea (c. 1347-1404) was a medieval ruler of Sardinia, famous for h
 
 The system converts Wikipedia text chunks about Eleanor of Arborea into a structured knowledge graph, storing entities like Sardinia, Carta de Logu, and their relationships in Neo4j.
 
-![Knowledge Graph](images/neo4j_graph.png)
+![Knowledge Graph](images/graph-visualization.png)
 
 ## Installation
 
